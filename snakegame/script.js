@@ -10,7 +10,7 @@ const scores=document.querySelector("#score");
   var tail=[];
   var tailsize=2;
   var score=0;
-var speaktext;
+
 
   window.onload=function(){
       
