@@ -64,9 +64,9 @@ if(xsidex==fsidex&&xsidey==fsidey){
   tailsize++;
   score+=10;
   scores.innerHTML=`score:${score}`;
-  var div=(580/20)+1;
-fsidex=20*Math.floor(Math.random()*div);
-  fsidey=20*Math.floor(Math.random()*div);
+  var digit=(580/20)+1;
+fsidiex=20*Math.floor(Math.random()*digit);
+  fsidey=20*Math.floor(Math.random()*digit);
   if(score>1000){
       alert("You Are A Pro Player How is it possibe")
  
