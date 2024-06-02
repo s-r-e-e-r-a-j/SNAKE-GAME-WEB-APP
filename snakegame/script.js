@@ -1,4 +1,4 @@
-//coded by sreeraj
+ //coded by sreeraj
 var canvas=document.getElementById("canvas").getContext("2d");
 const scores=document.querySelector("#score");
   var xsidex=80;
